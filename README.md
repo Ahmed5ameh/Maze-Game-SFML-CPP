@@ -1,2 +1,3 @@
 # Maze-Game-SFML-CPP
-https://youtu.be/WIzL0pOI8eg
+<video src='https://youtu.be/WIzL0pOI8eg' width=180/>
+
